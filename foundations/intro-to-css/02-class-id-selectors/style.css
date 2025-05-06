@@ -1,0 +1,19 @@
+p.one{
+    background-color:pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+div#second{
+    color: blue;
+    font-size: 36px;
+}
+p.diff{
+
+    font-size: 24px;
+}
+
+div#fourth{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
